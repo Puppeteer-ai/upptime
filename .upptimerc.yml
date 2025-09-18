@@ -19,9 +19,6 @@ status-website:
   name: PuppeteerAI
   introTitle: "PuppeteerAI"
   introMessage: "PuppeteerAI's status page"
-  navbar:
-    - title: Status
-      href: /
 
 i18n:
   footer: "[PuppeteerAI](https://puppeteerai.com/)"

@@ -18,10 +18,13 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PuppeteerAI
   introTitle: "PuppeteerAI"
-  introMessage: PuppeteerAIs status page
+  introMessage: "PuppeteerAI's status page"
   navbar:
     - title: Status
       href: /
+
+i18n:
+  footer: "[PuppeteerAI](https://puppeteerai.com/)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -4,11 +4,11 @@
     "url": "https://api.puppeteerai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.puppeteerai.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
     "time": 171,
     "timeDay": 263,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-04-30": 60,
       "2026-05-19": 120,
-      "2026-07-25": 32
+      "2026-07-25": 32,
+      "2026-07-27": 10
     }
   },
   {
@@ -26,11 +27,11 @@
     "url": "https://dashboard-api.puppeteerai.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard-api.puppeteerai.com.ico",
     "slug": "dashboard-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 134,
     "timeDay": 255,
@@ -39,7 +40,8 @@
     "timeYear": 134,
     "dailyMinutesDown": {
       "2026-06-03": 60,
-      "2026-07-25": 27
+      "2026-07-25": 27,
+      "2026-07-27": 5
     }
   },
   {
@@ -47,9 +49,9 @@
     "url": "https://dashboard.puppeteerai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.puppeteerai.com.ico",
     "slug": "dashboard-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -59,7 +61,8 @@
     "timeMonth": 568,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-07-25": 22
+      "2026-07-25": 22,
+      "2026-07-27": 0
     }
   }
 ]

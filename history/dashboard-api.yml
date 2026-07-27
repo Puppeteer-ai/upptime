@@ -1,7 +1,7 @@
 url: https://dashboard-api.puppeteerai.com/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-27T18:37:06.895Z
+status: up
+code: 200
+responseTime: 137
+lastUpdated: 2026-07-27T18:59:20.242Z
 startTime: 2025-09-18T02:25:25.836Z
 generator: Upptime <https://github.com/upptime/upptime>
